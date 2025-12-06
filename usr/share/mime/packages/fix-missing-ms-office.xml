@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-msaccess">
+    <comment>Microsoft Access Database</comment>
+      <glob pattern="*.mdb"/>
+      <glob pattern="*.accdb"/>
+  </mime-type>
+    <mime-type type="application/vnd.ms-project">
+      <comment>Microsoft Project Document</comment>
+        <glob pattern="*.mpp"/>
+    </mime-type>
+</mime-info>
